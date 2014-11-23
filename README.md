@@ -1,4 +1,4 @@
 IllWind.github.io
 =================
 
-Show work for Coursera Machine Learning throught JH.
+Show work for Coursera Machine Learning through a JH MOOC.
